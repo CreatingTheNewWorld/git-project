@@ -1,0 +1,70 @@
+HTML: 
+
+<html>
+
+   <head>
+     <title>ТЕСТИРОВАНИЕ</title>
+     <link rel="stylesheet" type="text/css" href="style.css">
+   </head>
+
+   <body>
+        <h1>HEADER</h1>
+        
+<div style=" width:100%; height:1px; clear:both;">.</div>
+	
+<div id="blok1">Блок 1</div>
+	<div id="blok2">Блок 2</div>
+	<div id="blok3">Блок 3</div>
+	<div id="blok4">Блок 4</div>
+	<div id="blok5">Блок 5</div>
+ 	<div id="blok6">Блок 6</div>
+	<div id="blok7">Блок 7</div>		
+
+<div style=" width:100%; height:1px; clear:both;">.</div>
+
+<footer>
+     Serdyuk V.
+  </footer>
+   </body>
+
+ </html>
+CSS:
+
+#blok1{
+border:1px solid red;
+width:45%;
+float:left;
+}
+
+#blok2{
+border:1px solid blue;
+width:45%;
+float:right;
+}
+
+#blok3{
+border:1px solid black;
+width:45%;
+float:right;
+}
+#blok4{
+border:1px solid green;
+width:45%;
+float:left;
+
+}
+#blok5{
+border:1px solid red;
+width:45%;
+float:right;
+}
+#blok6{
+border:1px solid red;
+width:45%;
+float:left;
+}
+#blok7{
+border:1px solid red;
+width:45%;
+float:right;
+}
