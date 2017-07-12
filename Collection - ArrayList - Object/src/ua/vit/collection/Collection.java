@@ -17,7 +17,7 @@ public class Collection {
 			System.out.println(m.getNumber() + " " + m.getName());
 		}
 		
-		
+		System.out.println("I believe in myself!");
 	}
 
 }
